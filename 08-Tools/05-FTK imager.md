@@ -1,6 +1,4 @@
 
-
-```markdown
 # Windows Artifacts Reference Guide - Analysis Tools
 
 A comprehensive technical study guide covering **FTK Imager** as a key forensic acquisition and preview tool, detailing its usage, supported formats, data integrity mechanisms, and workflow integration.
@@ -38,6 +36,8 @@ In a Digital Forensics and Incident Response (DFIR) lifecycle, FTK Imager serves
 1.  **First Responder / Acquisition Tool:** Deployed at the immediate start of an investigation to preserve volatile and non-volatile data.
 2.  **Pre-Analysis Execution:** Used *before* deep-dive analysis tools are introduced to the environment.
 3.  **Downstream Analysis:** The output forensic images (RAW/E01) are subsequently ingested and parsed by full-scale analysis suites like **Autopsy**, Axiom, or EnCase.
+
+download -> https://www.google.com/search?q=https://www.exterro.com/ftk-imager
 
 ```text
 [Target Media/RAM] ──> (FTK Imager Acquisition) ──> [E01/RAW Image + Hashes] ──> (Autopsy / Analysis Suite)
