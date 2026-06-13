@@ -1,3 +1,4 @@
+الهدف منها هو تحسين الاداء الخاص بالويندوز (تقليل زمن تحميل الملفات )
 # Windows Artifacts – Prefetch Files (Continued)
 
 > “An application needs to run for about 10 seconds to generate a valid Prefetch file.”
@@ -60,3 +61,6 @@ C:\Windows\Prefetch
 
 - PECmd (Eric Zimmerman)
 - WinPrefetchView (NirSoft)
+- - PECmd
+
+.\PECmd.exe -f "File Path"
