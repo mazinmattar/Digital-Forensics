@@ -6,11 +6,11 @@
 - **سجل النظام (Registry)**،
 - **الخط الزمني للأحداث (Timeline)**،
 - وغيرها من الأدلة الرقمية المهمة
-
+download -> https://github.com/EricZimmerman
    
 
 # KAPE
-
+Download -> https://www.google.com/search?q=https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor
 # Autopsy
 
 وتُستخدم لتحليل البيانات من:
@@ -24,14 +24,17 @@
 - تحتوي على **مكونات إضافية (Plugins)** تسهل وتسّرع عملية التحليل.
 - تستخرج **معلومات قيّمة من البيانات الخام** (Raw Data) وتعرضها بشكل منظم وسهل الفهم.
 - تُستخدم بشكل واسع من قبل **المحققين، والباحثين الأمنيين، وجهات إنفاذ القانون**.
+download -> https://www.autopsy.com/download/
 
 # GNU sha256sum
 
 sha256sum evidence.dd
+download -> https://github.com/coreutils/coreutils
 
 ## power shell get file hash
 
 Get-FileHash -Algorithm SHA256 -Path evidence.img
+download -> https://github.com/PowerShell/PowerShell
 
 # Volatility
 
@@ -43,6 +46,7 @@ Get-FileHash -Algorithm SHA256 -Path evidence.img
 - الملفات المفتوحة.
 - كلمات المرور أو البيانات الحساسة الموجودة مؤقتًا في الذاكرة.
 - آثار البرامج الضارة (Malware).
+download -> https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fvolatilityfoundation%2Fvolatility3%2Ftree%2Fdevelop%2Fvolatility3%2Fframework%2Fplugins%2Fwindows
 
 ## Volatility of data
 
@@ -63,3 +67,4 @@ volatile
 
 - جمع **البيانات الجنائية (Forensic Data)** من النظام.
 - تحليل هذه البيانات لتحديد أنشطة مشبوهة أو آثار هجمات
+download -> https://www.google.com/search?q=https://www.mandiant.com/resources/tools/redline
